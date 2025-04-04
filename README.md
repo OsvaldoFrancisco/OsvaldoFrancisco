@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Olá, eu sou Osvaldo Francisco
 
-<!--
-**OsvaldoFrancisco/OsvaldoFrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Desenvolvedor Web & Media Buyer | Empreendedor
 
-Here are some ideas to get you started:
+Sou um desenvolvedor experiente e empreendedor no sector de tecnologia, com foco em inteligência artificial, plataformas digitais e publicidade online. Atualmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Fundador de Projetos Inovadores
+
+- **RedeAO**: Rede de anúncios semelhante ao Google AdSense, desenvolvida para o mercado angolano
+- **BetDeep**: Plataforma baseada em IA para análise avançada de apostas esportivas
+- **MF20 Digital**: Startup focada em soluções digitais inovadoras
+
+### 🛠️ Habilidades Técnicas
+
+```
+📌 Laravel Framework    📌 HTML/CSS            📌 Inteligração de APIs
+📌 Web Scraping         📌 Inteligência Artificial  📌 Motores de Busca Locais
+📌 Publicidade Programática   📌 Compra de Tráfego
+```
+
+### 📊 Experiência em Media Buying
+
+Especialista em estratégias de Media Buying, com foco em:
+- Publicidade Programática
+- Compra estratégica de tráfego
+- Otimização de campanhas para ROI máximo
+- Análise de dados para tomada de decisões
+
+### 💡 Projetos e Produtos
+
+Desenvolvo ferramentas inovadoras para startups e empresas:
+- Plataformas de anúncios personalizadas
+- Diretórios de negócios otimizados
+- Marketplaces de software
+- Soluções baseadas em IA para análise de dados
+- Plataforma de cursos online
+- Plataforma de comércio electrónico
+
+### 🌎 Idiomas
+
+- Português (Nativo)
+- Inglês (Proficiente)
+
+### 🔗 Conecte-se Comigo
+
+[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/osvaldomf20)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/osvaldomf20)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angoblog.com)
+
+---
+
+> "Inovação consiste em transformar ideias em soluções que impactam positivamente a vida das pessoas."
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoFrancisco&layout=compact&theme=radical)
