@@ -39,7 +39,7 @@ Desenvolvo ferramentas inovadoras para startups e empresas:
 ### 🌎 Idiomas
 
 - Português (Nativo)
-- Inglês (Proficiente)
+- Inglês (Técnico)
 
 ### 🔗 Conecte-se Comigo
 
