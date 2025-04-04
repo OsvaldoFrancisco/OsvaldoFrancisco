@@ -51,6 +51,6 @@ Desenvolvo ferramentas inovadoras para startups e empresas:
 
 > "Inovação consiste em transformar ideias em soluções que impactam positivamente a vida das pessoas."
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OsvaldoFrancisco&show_icons=true&theme=radical)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoFrancisco&layout=compact&theme=radical)
