@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Osvaldo Francisco
+# 👋 Olá, sou Osvaldo Francisco
 
 ## 💼 Desenvolvedor Web & Media Buyer | Empreendedor
 
-Sou um desenvolvedor experiente e empreendedor no sector de tecnologia, com foco em inteligência artificial, plataformas digitais e publicidade online. Atualmente.
+Sou um desenvolvedor experiente e empreendedor no sector de tecnologia, com foco em inteligência artificial, plataformas digitais e publicidade online.
 
 ### 🚀 Fundador de Projetos Inovadores
 
