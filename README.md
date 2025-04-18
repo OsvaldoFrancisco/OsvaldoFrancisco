@@ -1,54 +1,68 @@
 # 👋 Olá, sou Osvaldo Francisco
 
-## 💼 Desenvolvedor Web & Media Buyer | Empreendedor
-
-Sou um desenvolvedor experiente e empreendedor no sector de tecnologia, com foco em inteligência artificial, plataformas digitais e publicidade online.
-
-### 🚀 Fundador de Projetos Inovadores
-
-- **RedeAO**: Rede de anúncios semelhante ao Google AdSense, desenvolvida para o mercado angolano
-- **BetDeep**: Plataforma baseada em IA para análise avançada de apostas esportivas
-- **MF20 Digital**: Startup focada em soluções digitais inovadoras
-
-### 🛠️ Habilidades Técnicas
-
-```
-📌 Laravel Framework    📌 HTML/CSS            📌 Inteligração de APIs
-📌 Web Scraping         📌 Inteligência Artificial  📌 Motores de Busca Locais
-📌 Publicidade Programática   📌 Compra de Tráfego
-```
-
-### 📊 Experiência em Media Buying
-
-Especialista em estratégias de Media Buying, com foco em:
-- Publicidade Programática
-- Compra estratégica de tráfego
-- Otimização de campanhas para ROI máximo
-- Análise de dados para tomada de decisões
-
-### 💡 Projetos e Produtos
-
-Desenvolvo ferramentas inovadoras para startups e empresas:
-- Plataformas de anúncios personalizadas
-- Diretórios de negócios otimizados
-- Marketplaces de software
-- Soluções baseadas em IA para análise de dados
-- Plataforma de cursos online
-- Plataforma de comércio electrónico
-
-### 🌎 Idiomas
-
-- Português (Nativo)
-- Inglês (Técnico)
-
-### 🔗 Conecte-se Comigo
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/osvaldomf20)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/osvaldomf20)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angoblog.com)
 
----
+> *"Inovação consiste em transformar ideias em soluções que impactam positivamente a vida das pessoas."*
 
-> "Inovação consiste em transformar ideias em soluções que impactam positivamente a vida das pessoas."
+## 💼 Desenvolvedor Full Stack & Empreendedor Digital
+
+Sou desenvolvedor com experiência em tecnologias web e empreendedor no setor tech, com foco em:
+- 🧠 Aplicações baseadas em Inteligência Artificial
+- 🌐 Plataformas digitais escaláveis
+- 📊 Estratégias avançadas de publicidade online
+
+### 🚀 Fundador & Criador
+
+- **MF20 Digital** | _Startup de soluções digitais inovadoras_
+  - Desenvolvimento de produtos digitais sob medida
+  - Consultoria em transformação digital para empresas
+  - Implementação de soluções baseadas em dados
+  - Análise de dados em tempo real para otimização de ROI
+
+### 🛠️ Stack Tecnológico
+
+```json
+{
+  "backend": ["Laravel", "PHP", "MySQL", "API Development"],
+  "frontend": ["HTML5", "CSS3", "Bootstrap"],
+  "data": ["Web Scraping", "Data Analysis", "AI Integration"],
+  "digital_marketing": ["Media Buying", "Programmatic Ads", "Traffic Optimization"],
+  "tools": ["Git", "Google Cloud"]
+}
+```
+
+### 📈 Especialização em Media Buying
+
+- **Publicidade Programática** | _Otimização algorítmica de campanhas_
+- **Compra Estratégica de Tráfego** | _Maximização de conversões_
+- **Análise Avançada de Dados** | _Decisões baseadas em métricas_
+- **Funis de Conversão** | _Jornadas do cliente otimizadas_
+
+### 💡 Ecossistema de Produtos
+
+Desenvolvo soluções digitais completas:
+- 📣 **Plataformas de anúncios** personalizadas e adaptadas ao mercado local
+- 🔍 **Diretórios de negócios** com recursos avançados de SEO e monetização
+- 🛒 **Marketplaces** especializados com múltiplos fluxos de receita
+- 🤖 **Soluções baseadas em IA** para análise preditiva e automação
+- 🎓 **LMS** (Learning Management Systems) para cursos online
+- 🛍️ **E-commerce** com integrações de pagamento locais e internacionais
+
+### 🌎 Idiomas
+
+- 🇦🇴 **Português** (Nativo)
+- 🇬🇧 **Inglês** (Técnico)
+
+### 📊 Estatísticas GitHub
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoFrancisco&layout=compact&theme=radical)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=OsvaldoFrancisco&show_icons=true&theme=radical)
+
+### 📬 Vamos Conversar!
+
+Estou sempre aberto a colaborações, oportunidades e networking. Entre em contato para discutirmos como posso agregar valor ao seu projeto!
+
+---
+⚡ _Transformando linhas de código em soluções que impulsionam negócios em Africa._
