@@ -8,7 +8,7 @@
 
 ## 💼 Desenvolvedor Full Stack & Empreendedor Digital
 
-Sou desenvolvedor com experiência em tecnologias web e empreendedor no setor tech, com foco em:
+Sou desenvolvedor com experiência em tecnologias web e empreendedor no sector de IT, com foco em:
 - 🧠 Aplicações baseadas em Inteligência Artificial
 - 🌐 Plataformas digitais escaláveis
 - 📊 Estratégias avançadas de publicidade online
