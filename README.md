@@ -6,11 +6,11 @@
 
 > *"Inovação consiste em transformar ideias em soluções que impactam positivamente a vida das pessoas."*
 
-## 💼 Desenvolvedor Full Stack & Empreendedor Digital
+## 💼 Desenvolvedor Backend & Empreendedor Digital
 
 Sou desenvolvedor com experiência em tecnologias web e empreendedor no sector de IT, com foco em:
 - 🧠 Aplicações baseadas em Inteligência Artificial
-- 🌐 Plataformas digitais escaláveis
+- 🌐 Plataformas digitais escaláveis feitas com Laravel Framework
 - 📊 Estratégias avançadas de publicidade online
 
 ### 🚀 Fundador & Criador
