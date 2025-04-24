@@ -6,7 +6,7 @@
 
 > *"Inovação consiste em transformar ideias em soluções que impactam positivamente a vida das pessoas."*
 
-## 💼 Desenvolvedor Backend & Empreendedor Digital
+## 💼 Web Developer & Empreendedor Digital
 
 Sou desenvolvedor com experiência em tecnologias web e empreendedor no sector de IT, com foco em:
 - 🧠 Aplicações baseadas em Inteligência Artificial
