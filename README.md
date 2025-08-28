@@ -9,7 +9,6 @@
 ## 💼 Web Developer & Empreendedor Digital
 
 Sou desenvolvedor com experiência em tecnologias web e empreendedor no sector de IT, com foco em:
-- 🧠 Aplicações baseadas em Inteligência Artificial
 - 🌐 Plataformas digitais escaláveis feitas com Laravel Framework
 - 📊 Estratégias avançadas de publicidade online
 
@@ -26,10 +25,9 @@ Sou desenvolvedor com experiência em tecnologias web e empreendedor no sector d
 ```json
 {
   "backend": ["Laravel", "PHP", "MySQL", "API Development"],
-  "frontend": ["HTML5", "CSS3", "Bootstrap"],
   "data": ["Web Scraping", "Data Analysis", "AI Integration"],
   "digital_marketing": ["Media Buying", "Programmatic Ads", "Traffic Optimization"],
-  "tools": ["Git", "Google Cloud"]
+  "tools": ["Git"]
 }
 ```
 
@@ -39,16 +37,6 @@ Sou desenvolvedor com experiência em tecnologias web e empreendedor no sector d
 - **Compra Estratégica de Tráfego** | _Maximização de conversões_
 - **Análise Avançada de Dados** | _Decisões baseadas em métricas_
 - **Funis de Conversão** | _Jornadas do cliente otimizadas_
-
-### 💡 Ecossistema de Produtos
-
-Desenvolvo soluções digitais completas:
-- 📣 **Plataformas de anúncios** personalizadas e adaptadas ao mercado local
-- 🔍 **Diretórios de negócios** com recursos avançados de SEO e monetização
-- 🛒 **Marketplaces** especializados com múltiplos fluxos de receita
-- 🤖 **Soluções baseadas em IA** para análise preditiva e automação
-- 🎓 **LMS** (Learning Management Systems) para cursos online
-- 🛍️ **E-commerce** com integrações de pagamento locais e internacionais
 
 ### 🌎 Idiomas
 
